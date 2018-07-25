@@ -1,7 +1,10 @@
 package com.ibm;
 
+import org.junit.Test;
+
 public class Test_runner {
-public static void main(String args[]){
+	@Test
+public void Test1(){
 	System.out.println("hell");
 }
 
